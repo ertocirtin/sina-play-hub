@@ -1,2 +1,14 @@
 # sina-play-hub
-HTML page archive and documentation
+
+仓库页面索引说明
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 文件归档
+
+- HTML 页面用于访问展示
+- README 用于说明归档用途
+
+## 访问状态
+
+如果 Pages 暂未生效，可稍后重试或查看仓库中的 HTML 文件。
